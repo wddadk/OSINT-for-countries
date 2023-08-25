@@ -12,6 +12,7 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 - [Japan](#japan)
 - [South Korea](#south-korea)
 - [Netherlands](#netherlands)
+- [Brazil](#brazil)
 
 ---
 
@@ -38,6 +39,9 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 
 ## Netherlands
 - [Awesome Dutch OSINT GitHub Repository](https://github.com/wvanderp/awesome-dutch-osint)
+
+## Brazil
+- [OSINT-Brazuca](https://github.com/osintbrazuca/osint-brazuca)
 
 ---
 
