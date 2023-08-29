@@ -39,6 +39,7 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
   
 ## China
 - [OSINT China Resources](https://start.me/p/GE7JQb/osint)
+- [OSINT Chiba](https://start.me/p/7kLY9R/osint-chine)
 
 ## Hungary
 - [OSINT Resources for Hungary](https://start.me/p/kxGLzd/hun-osint)
