@@ -19,6 +19,7 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 - [South Korea](#south-korea)
 - [Thailand](#thailand)
 - [United Kingdom](#united-kingdom)
+- [USA](#usa)
 - [Individuals Links and Tools](#individuals-links-and-tools)
 
 ---
@@ -26,6 +27,7 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 ## Australia
 - [DFW1N-OSINT GitHub Repository](https://github.com/DFW1N/DFW1N-OSINT)
 - [Australian OSINT Public Data Sources](https://osint.fans/australia-osint-data-sources)
+- [Australian OSINT](https://start.me/p/L10kJ6/australian-osint)
 
 ## Brazil
 - [OSINT-Brazuca](https://github.com/osintbrazuca/osint-brazuca)
@@ -49,7 +51,7 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 - [OSINT Japan GitHub Repository](https://github.com/Coordinate-Cat/OSINT-JAPAN)
 
 ## Malaysia
-- [OSINT in Malaysia resources](https://start.me/p/KMqwBB/osint-in-malaysia-resources?source=post_page-----d81e0e26769--------------------------------)
+- [OSINT in Malaysia resources](https://start.me/p/KMqwBB/osint-in-malaysia-resources)
 
 ## Netherlands
 - [Awesome Dutch OSINT GitHub Repository](https://github.com/wvanderp/awesome-dutch-osint)
@@ -58,10 +60,10 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 - [OSINT New Zealand](https://www.osint.nz/)
 
 ## Poland 
--[Poland OSINTFRAMEWORK](https://osintframework.pl/)
+- [Poland OSINTFRAMEWORK](https://osintframework.pl/)
 
 ## South Africa
--[OSINT South Africa](https://start.me/p/KMAbkB/osint-south-africa)
+- [OSINT South Africa](https://start.me/p/KMAbkB/osint-south-africa)
 
 ## South Korea
 - [OSINT Korea GitHub Repository](https://github.com/SwanLeeSec/rokinttool)
@@ -73,6 +75,9 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 ## United Kingdom
 - [OSINT UK Resources](https://start.me/p/gyq0Rz/united-kingdom)
 - [UK OSINT](https://www.uk-osint.net/)
+
+## USA
+- [US OSINT](https://start.me/p/GEQXv7/osint-us)
 
 ## Individuals Links and Tools
 - [OSINT Map](https://cipher387.github.io/osintmap/) - Worldwide map of OSINT tools
