@@ -15,6 +15,7 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 - [Netherlands](#netherlands)
 - [New Zealand](#new-zealand)
 - [Poland](#poland)
+- [South Africa](#south-africa)
 - [South Korea](#south-korea)
 - [Thailand](#thailand)
 - [United Kingdom](#united-kingdom)
@@ -56,6 +57,9 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 
 ## Poland 
 -[Poland OSINTFRAMEWORK](https://osintframework.pl/)
+
+## South Africa
+-[OSINT South Africa](https://start.me/p/KMAbkB/osint-south-africa)
 
 ## South Korea
 - [OSINT Korea GitHub Repository](https://github.com/SwanLeeSec/rokinttool)
