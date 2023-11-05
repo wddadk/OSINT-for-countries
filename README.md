@@ -51,7 +51,7 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 
 ## India 
 
--[OSINT resources in India](https://start.me/p/vjR5wL/osint-resources-in-india
+- [OSINT resources in India](https://start.me/p/vjR5wL/osint-resources-in-india)
 
 ## Israel
 - [OSINT Tools Israel](https://github.com/ranlo/OSINT-Tools-Israel)
