@@ -10,6 +10,7 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 - [Canada](#canada)
 - [China](#china)
 - [Hungary](#hungary)
+- [India](#india)
 - [Israel](#israel)
 - [Japan](#japan)
 - [Malaysia](#malaysia)
@@ -47,6 +48,10 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 
 ## Hungary
 - [OSINT Resources for Hungary](https://start.me/p/kxGLzd/hun-osint)
+
+## India 
+
+-[OSINT resources in India](https://start.me/p/vjR5wL/osint-resources-in-india
 
 ## Israel
 - [OSINT Tools Israel](https://github.com/ranlo/OSINT-Tools-Israel)
