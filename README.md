@@ -70,6 +70,7 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 
 ## Poland 
 - [Poland OSINTFRAMEWORK](https://osintframework.pl/)
+- [OSINT Poland](https://github.com/9wind/OSINT-Poland)
 
 ## South Africa
 - [OSINT South Africa](https://start.me/p/KMAbkB/osint-south-africa)
