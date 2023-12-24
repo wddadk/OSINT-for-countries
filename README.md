@@ -4,6 +4,7 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 
 ## Table of Contents
 
+- [Argentina](#argentina)
 - [Australia](#australia)
 - [Brazil](#brazil)
 - [Bulgaria](#bulgaria)
@@ -11,12 +12,14 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 - [China](#china)
 - [Hungary](#hungary)
 - [India](#india)
+- [Iran](#iran)
 - [Israel](#israel)
 - [Japan](#japan)
 - [Malaysia](#malaysia)
 - [Netherlands](#netherlands)
 - [New Zealand](#new-zealand)
 - [Poland](#poland)
+- [Russia](#russia)
 - [South Africa](#south-africa)
 - [South Korea](#south-korea)
 - [Thailand](#thailand)
@@ -25,6 +28,10 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 - [Individuals Links and Tools](#individuals-links-and-tools)
 
 ---
+
+## Argentina
+
+- [OSINT OF ARGENTINA Part 1](https://web.archive.org/web/20231224134904/https://t.me/OsintLosena/565) & [OSINT OF ARGENTINA Part 2](https://web.archive.org/web/20231224135235/https://t.me/OsintLosena/566)
 
 ## Australia
 - [DFW1N-OSINT GitHub Repository](https://github.com/DFW1N/DFW1N-OSINT)
@@ -53,6 +60,10 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 
 - [OSINT resources in India](https://start.me/p/vjR5wL/osint-resources-in-india)
 
+## Iran
+
+- [OSINT OF IRAN Part 1](https://web.archive.org/web/20231224135808/https://t.me/OsintLosena/568) & [OSINT OF IRAN Part 2](https://web.archive.org/web/20231224135949/https://t.me/OsintLosena/569)
+
 ## Israel
 - [OSINT Tools Israel](https://github.com/ranlo/OSINT-Tools-Israel)
 
@@ -71,6 +82,9 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 ## Poland 
 - [Poland OSINTFRAMEWORK](https://osintframework.pl/)
 - [OSINT Poland](https://github.com/9wind/OSINT-Poland)
+
+## Russia
+- [OSINT: Darkweb & Russia](https://start.me/p/kx5qL5/osint-darkweb-russia)
 
 ## South Africa
 - [OSINT South Africa](https://start.me/p/KMAbkB/osint-south-africa)
