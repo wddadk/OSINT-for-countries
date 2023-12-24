@@ -106,7 +106,7 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 - [US OSINT](https://start.me/p/GEQXv7/osint-us)
 
 ## Individuals Links and Tools
-- [OSINT Map](https://cipher387.github.io/osintmap/) - Worldwide map of OSINT tools
+- [OSINT Map](https://cybdetective.com/osintmap/) - Worldwide map of OSINT tools
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [Middle East OSINT](https://start.me/p/jj8Y9a/middle-east-osint) - Resources for OSINT in the Middle East
 - [World](https://start.me/p/lLaoXv/07-world) - Europe, Middle East, Africa, Americas OSINT
