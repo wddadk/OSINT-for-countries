@@ -85,6 +85,7 @@ Welcome to the OSINT (Open Source Intelligence) Resources repository, organized 
 
 ## Russia
 - [OSINT: Darkweb & Russia](https://start.me/p/kx5qL5/osint-darkweb-russia)
+- [OSINT Russie IEC-IES](https://start.me/p/0PeKwy/osint-russie-iec-ies)
 
 ## South Africa
 - [OSINT South Africa](https://start.me/p/KMAbkB/osint-south-africa)
