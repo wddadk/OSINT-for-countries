@@ -2,6 +2,10 @@
 
 Welcome to the OSINT (Open Source Intelligence) Resources repository, organized by country. Here you'll find a collection of links to various OSINT tools, websites, and projects that are specific to different countries. Feel free to contribute by adding more resources through pull requests!
 
+## Didn't find the specific country that you're looking for?
+
+Check the - [Individuals Links and Tools](#individuals-links-and-tools) 
+
 ## Table of Contents
 
 - [Argentina](#argentina)
