@@ -116,6 +116,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World](https://start.me/p/lLaoXv/07-world) - Europe, Middle East, Africa, Americas OSINT
 - [List of OSINT Web Resources](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md#country-specific-search-engines-and-directories) -  `80+ countries`
 - [CNTY WORLD](https://start.me/p/kxNv55/cnty-world) - `80+ countries`
+- [OSINT Resources by country](https://start.me/p/kvAQBk/osint-resources-by-country) - `70+ countries`
 
 ---
 
