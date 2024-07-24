@@ -54,6 +54,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Canada OSINT (CANOSINT)](https://start.me/p/9E5BLR/canosint)
 - [Canada OSINT](https://start.me/p/6rOJQp/canada-osint)
 - [Canada](https://start.me/p/dlbyRn/canada)
+- [Canadian OSINT](https://github.com/S3V3N11S/Canadian-OSINT-)
   
 ## China
 - [OSINT China Resources](https://start.me/p/GE7JQb/osint)
