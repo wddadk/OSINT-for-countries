@@ -15,6 +15,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Canada](#canada)
 - [China](#china)
 - [Colombia](#colombia)
+- [Czechia](#czechia)
 - [Hungary](#hungary)
 - [India](#india)
 - [Iran](#iran)
@@ -64,6 +65,12 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 - [OSINT in Colombia](https://github.com/BeHackerPro/OSINT_in_Colombia)
 - [GEOINT Colombia](https://github.com/Bugs-B0unt3r/geoint-colombia)
+
+## Czechia
+- [Car Info from Licence Plate (SPZ)](https://www.epojisteni.cz/) (You don't have to buy anything, just put your numbers in to get info on the car)
+- [Cadastral Informatoin](https://ikatastr.cz/)
+- [Business Lookup](https://www.firmy.cz/)
+- [Business License Lookup (IČO)](https://rejstrik-firem.kurzy.cz/ico/vyhledavani/)
 
 ## Hungary
 - [OSINT Resources for Hungary](https://start.me/p/kxGLzd/hun-osint)
