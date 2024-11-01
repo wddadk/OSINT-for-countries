@@ -21,6 +21,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Iran](#iran)
 - [Israel](#israel)
 - [Japan](#japan)
+- [Kazakhstan](#kazakhstan)
 - [Malaysia](#malaysia)
 - [Netherlands](#netherlands)
 - [New Zealand](#new-zealand)
@@ -90,7 +91,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Japan GitHub Repository](https://github.com/Coordinate-Cat/OSINT-JAPAN)
 
 ## Kazakhstan
-— [OSINT Tools Kazakhstan GitHub] (https://github.com/paulpogoda/OSINT-Tools-Kazakhstan/tree/main)
+- [OSINT Tools Kazakhstan GitHub](https://github.com/paulpogoda/OSINT-Tools-Kazakhstan)
 
 ## Malaysia
 - [OSINT in Malaysia resources](https://start.me/p/KMqwBB/osint-in-malaysia-resources)
