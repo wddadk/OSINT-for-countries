@@ -23,6 +23,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Japan](#japan)
 - [Kazakhstan](#kazakhstan)
 - [Malaysia](#malaysia)
+- [Mexico](#mexico)
 - [Netherlands](#netherlands)
 - [New Zealand](#new-zealand)
 - [Poland](#poland)
@@ -95,6 +96,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Malaysia
 - [OSINT in Malaysia resources](https://start.me/p/KMqwBB/osint-in-malaysia-resources)
+
+## Mexico
+- [Mexico-Focused OSINT Tools and Techniques](https://osint2h22v.substack.com/p/mexico-focused-osint-tools-and-techniques)
 
 ## Netherlands
 - [Awesome Dutch OSINT GitHub Repository](https://github.com/wvanderp/awesome-dutch-osint)
