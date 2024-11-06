@@ -8,6 +8,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Table of Contents
 
+- [Albania](#albania)
 - [Argentina](#argentina)
 - [Australia](#australia)
 - [Brazil](#brazil)
@@ -36,6 +37,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Resources containing multi-country links](#resources-containing-multi-country-links)
 
 ---
+
+## Albania
+
+- [A GUIDE TO INVESTIGATIVE REPORTING IN ALBANIA](https://www.osce.org/files/f/documents/3/0/201276.pdf)
 
 ## Argentina
 
