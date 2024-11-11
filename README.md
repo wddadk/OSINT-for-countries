@@ -11,6 +11,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Albania](#albania)
 - [Argentina](#argentina)
 - [Australia](#australia)
+- [Belgium](#belgium)
 - [Brazil](#brazil)
 - [Bulgaria](#bulgaria)
 - [Canada](#canada)
@@ -50,6 +51,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [DFW1N-OSINT GitHub Repository](https://github.com/DFW1N/DFW1N-OSINT)
 - [Australian OSINT Public Data Sources](https://osint.fans/australia-osint-data-sources)
 - [Australian OSINT](https://start.me/p/L10kJ6/australian-osint)
+
+## Belgium
+- [OSINT Tools Belgium](https://github.com/ts4rin4/OSINT-Tools-Belgium)
 
 ## Brazil
 - [OSINT-Brazuca](https://github.com/osintbrazuca/osint-brazuca)
