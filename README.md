@@ -139,15 +139,21 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## USA
 - [US OSINT](https://start.me/p/GEQXv7/osint-us)
+- [CNTY USA](https://start.me/p/kxMBv9/cnty-usa)
 
 ## Resources containing multi-country links
 - [OSINT Map](https://cybdetective.com/osintmap/) - Worldwide map of OSINT tools
 - [OSINT International](https://start.me/p/7kDabv/osint-international) -  `50+ countries`
 - [Middle East OSINT](https://start.me/p/jj8Y9a/middle-east-osint) - Resources for OSINT in the Middle East
 - [World](https://start.me/p/lLaoXv/07-world) - Europe, Middle East, Africa, Americas OSINT
+- [African Continent](https://start.me/p/m6OJgv/the-bbc-africa-eye-forensics-dashboard) - Resources for OSINT on the African Continent
 - [List of OSINT Web Resources](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md#country-specific-search-engines-and-directories) -  `80+ countries`
 - [CNTY WORLD](https://start.me/p/kxNv55/cnty-world) - `80+ countries`
 - [OSINT Resources by country](https://start.me/p/kvAQBk/osint-resources-by-country) - `70+ countries`
+- [HBG UK/Europe](https://start.me/p/VRMpYm/hbg-ukeurope-research-resources) - UK/Europe research resources
+- [HBG Asia/Pacific](https://start.me/p/3KMwaw/hbg-asia-pacific-prospect-research-resources) - Asia/Pacific research resources
+- [HBG North America](https://start.me/p/ZQdorV/hbg-north-america-prospect-research-links) - North America research resources
+- [HBG Middle East](https://start.me/p/ZYaxaJ/hbg-middle-east-prospect-research-links) - Middle East research resources
 
 ---
 
