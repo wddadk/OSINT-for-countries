@@ -33,6 +33,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Russia](#russia)
 - [South Africa](#south-africa)
 - [South Korea](#south-korea)
+- [Switzerland](#switzerland)
 - [Thailand](#thailand)
 - [United Kingdom](#united-kingdom)
 - [USA](#usa)
@@ -100,6 +101,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Japan
 - [OSINT Japan GitHub Repository](https://github.com/Coordinate-Cat/OSINT-JAPAN)
+- [Phone Number Lookup Tips](https://osintteam.blog/osint-in-japan-日本-phone-numbers-b95eeb3cd1c7)
 
 ## Kazakhstan
 - [OSINT Tools Kazakhstan GitHub](https://github.com/paulpogoda/OSINT-Tools-Kazakhstan)
@@ -122,6 +124,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Poland 
 - [Poland OSINTFRAMEWORK](https://osintframework.pl/)
 - [OSINT Poland](https://github.com/9wind/OSINT-Poland)
+- [Otwarte Zrodla](https://otwartezrodla.pl/)
 
 ## Russia
 - [OSINT: Darkweb & Russia](https://start.me/p/kx5qL5/osint-darkweb-russia)
@@ -133,6 +136,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## South Korea
 - [OSINT Korea GitHub Repository](https://github.com/SwanLeeSec/rokinttool)
 - [Korean OSINT Tips](https://osintstan.medium.com/top-five-korean-osint-tips-b578e2dec010)
+
+## Switzerland
+- [Swiss Online Investigation Toolkit](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview#)
 
 ## Thailand
 - [Awesome OSINT Thai](https://github.com/wasdee/awesome-osint-thai)
