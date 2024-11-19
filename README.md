@@ -34,6 +34,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [South Africa](#south-africa)
 - [South Korea](#south-korea)
 - [Switzerland](#switzerland)
+- [Tajikistan](#tajikistan)
 - [Thailand](#thailand)
 - [United Kingdom](#united-kingdom)
 - [USA](#usa)
@@ -139,6 +140,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Switzerland
 - [Swiss Online Investigation Toolkit](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview#)
+
+## Tajikistan
+
+- [OSINT Tools Tajikistan](https://github.com/paulpogoda/OSINT-Tools-Tajikistan)
 
 ## Thailand
 - [Awesome OSINT Thai](https://github.com/wasdee/awesome-osint-thai)
