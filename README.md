@@ -30,6 +30,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Netherlands](#netherlands)
 - [New Zealand](#new-zealand)
 - [Poland](#poland)
+- [Pakistan](#pakistan)
 - [Russia](#russia)
 - [South Africa](#south-africa)
 - [South Korea](#south-korea)
@@ -126,6 +127,11 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Poland OSINTFRAMEWORK](https://osintframework.pl/)
 - [OSINT Poland](https://github.com/9wind/OSINT-Poland)
 - [Otwarte Zrodla](https://otwartezrodla.pl/)
+
+## Pakistan
+- [Phone Numbers Search](https://paksim.info/) 
+- [CNIC Search](https://e.fbr.gov.pk/esbn/Verification)
+- [Companies Search](https://eservices.secp.gov.pk/eServices/NameSearch.jsp)
 
 ## Russia
 - [OSINT: Darkweb & Russia](https://start.me/p/kx5qL5/osint-darkweb-russia)
