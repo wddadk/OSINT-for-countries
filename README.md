@@ -39,6 +39,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Thailand](#thailand)
 - [United Kingdom](#united-kingdom)
 - [USA](#usa)
+- [Uzbekistan](#uzbekistan)
 - [Resources containing multi-country links](#resources-containing-multi-country-links)
 
 ---
@@ -161,6 +162,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## USA
 - [US OSINT](https://start.me/p/GEQXv7/osint-us)
 - [CNTY USA](https://start.me/p/kxMBv9/cnty-usa)
+
+## Uzbekistan
+- [OSINT Tools Uzbekistan](https://github.com/paulpogoda/OSINT-Tools-Uzbekistan)
 
 ## Resources containing multi-country links
 - [OSINT Map](https://cybdetective.com/osintmap/) - Worldwide map of OSINT tools
