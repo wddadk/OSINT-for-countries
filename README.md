@@ -83,7 +83,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Czechia
 - [Car Info from Licence Plate (SPZ)](https://www.epojisteni.cz/) (You don't have to buy anything, just put your numbers in to get info on the car)
-- [Cadastral Informatoin](https://ikatastr.cz/)
+- [Cadastral Information](https://ikatastr.cz/)
 - [Business Lookup](https://www.firmy.cz/)
 - [Business License Lookup (IČO)](https://rejstrik-firem.kurzy.cz/ico/vyhledavani/)
 
@@ -175,7 +175,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [HBG Asia/Pacific](https://start.me/p/3KMwaw/hbg-asia-pacific-prospect-research-resources) - Asia/Pacific research resources
 - [HBG North America](https://start.me/p/ZQdorV/hbg-north-america-prospect-research-links) - North America research resources
 - [HBG Middle East](https://start.me/p/ZYaxaJ/hbg-middle-east-prospect-research-links) - Middle East research resources
-
+- [Geotips Map](https://geotips.net) - World map with tips for Geo-OSINT
+  
 ---
 
 ## Contributing
