@@ -37,6 +37,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Switzerland](#switzerland)
 - [Tajikistan](#tajikistan)
 - [Thailand](#thailand)
+- [United Arab Emirates](#united-arab-emirates)
 - [United Kingdom](#united-kingdom)
 - [USA](#usa)
 - [Uzbekistan](#uzbekistan)
@@ -154,6 +155,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Thailand
 - [Awesome OSINT Thai](https://github.com/wasdee/awesome-osint-thai)
+
+## United Arab Emirates
+
+- [OSINT Tools Emirates](https://github.com/paulpogoda/OSINT-Tools-Emirates)
 
 ## United Kingdom
 - [OSINT UK Resources](https://start.me/p/gyq0Rz/united-kingdom)
