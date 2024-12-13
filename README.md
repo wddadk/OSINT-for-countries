@@ -10,6 +10,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 - [Albania](#albania)
 - [Argentina](#argentina)
+- [Armenia](#armenia)
 - [Australia](#australia)
 - [Belgium](#belgium)
 - [Brazil](#brazil)
@@ -52,6 +53,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Argentina
 
 - [OSINT OF ARGENTINA Part 1](https://web.archive.org/web/20231224134904/https://t.me/OsintLosena/565) & [OSINT OF ARGENTINA Part 2](https://web.archive.org/web/20231224135235/https://t.me/OsintLosena/566)
+
+## Armenia
+
+- [OSINT Tools Armenia](https://github.com/paulpogoda/OSINT-Tools-Armenia)
 
 ## Australia
 - [DFW1N-OSINT GitHub Repository](https://github.com/DFW1N/DFW1N-OSINT)
