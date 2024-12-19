@@ -82,6 +82,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## China
 - [OSINT China Resources](https://start.me/p/GE7JQb/osint)
 - [OSINT China](https://start.me/p/7kLY9R/osint-chine)
+- [OSINT-Tools-China | GitHub](https://github.com/paulpogoda/OSINT-Tools-China)
 
 ## Colombia
 
@@ -104,6 +105,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Iran
 
 - [OSINT OF IRAN Part 1](https://web.archive.org/web/20231224135808/https://t.me/OsintLosena/568) & [OSINT OF IRAN Part 2](https://web.archive.org/web/20231224135949/https://t.me/OsintLosena/569)
+- [OSINT-Tools-Iran | GitHub](https://github.com/paulpogoda/OSINT-Tools-Iran)
 
 ## Israel
 - [OSINT Tools Israel](https://github.com/ranlo/OSINT-Tools-Israel)
@@ -153,6 +155,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Switzerland
 - [Swiss Online Investigation Toolkit](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview#)
+
+## Syria
+- [OSINT-Tools-Syria | GitHub](https://github.com/paulpogoda/OSINT-Tools-Syria)
 
 ## Tajikistan
 
