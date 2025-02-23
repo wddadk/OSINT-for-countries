@@ -66,7 +66,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Austria
 
--[Austria OSINT](https://osintteam.blog/osint-austria-188ac5b7ed5e)
+- [Austria OSINT](https://osintteam.blog/osint-austria-188ac5b7ed5e)
 
 ## Belgium
 - [OSINT Tools Belgium](https://github.com/ts4rin4/OSINT-Tools-Belgium)
