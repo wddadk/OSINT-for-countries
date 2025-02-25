@@ -188,6 +188,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Resources containing multi-country links
 - [OSINT Map](https://cybdetective.com/osintmap/) - Worldwide map of OSINT tools
+- [OSINT Guru](https://osintguru.azurewebsites.net/countries/) - `195 counties (all)` but some of them are empty
 - [OSINT International](https://start.me/p/7kDabv/osint-international) -  `50+ countries`
 - [Middle East OSINT](https://start.me/p/jj8Y9a/middle-east-osint) - Resources for OSINT in the Middle East
 - [World](https://start.me/p/lLaoXv/07-world) - Europe, Middle East, Africa, Americas OSINT
