@@ -22,6 +22,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Colombia](#colombia)
 - [Czechia](#czechia)
 - [Hungary](#hungary)
+- [Iceland](#hungary)
 - [India](#india)
 - [Iran](#iran)
 - [Israel](#israel)
@@ -107,6 +108,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Hungary
 - [OSINT Resources for Hungary](https://start.me/p/kxGLzd/hun-osint)
+
+## Iceland
+
+- [Iceland OSINT](https://start.me/p/RM4Xae/iceland)
 
 ## India 
 
