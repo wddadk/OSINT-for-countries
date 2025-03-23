@@ -13,6 +13,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Armenia](#armenia)
 - [Australia](#australia)
 - [Austria](#austria)
+- [Belarus](#belarus)
 - [Belgium](#belgium)
 - [Brazil](#brazil)
 - [Bulgaria](#bulgaria)
@@ -67,6 +68,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Austria
 
 - [Austria OSINT](https://osintteam.blog/osint-austria-188ac5b7ed5e)
+
+## Belarus
+
+- [Belarus](https://github.com/soxoj/counter-osint-guide-en/blob/main/pages/belarus.md)
 
 ## Belgium
 - [OSINT Tools Belgium](https://github.com/ts4rin4/OSINT-Tools-Belgium)
