@@ -36,10 +36,12 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Poland](#poland)
 - [Pakistan](#pakistan)
 - [Russia](#russia)
+- [Saudi Arabia](#saudi-arabia)
 - [South Africa](#south-africa)
 - [South Korea](#south-korea)
 - [Switzerland](#switzerland)
 - [Tajikistan](#tajikistan)
+- [Taiwan](#taiwan)
 - [Thailand](#thailand)
 - [United Arab Emirates](#united-arab-emirates)
 - [United Kingdom](#united-kingdom)
@@ -71,7 +73,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Austria OSINT](https://osintteam.blog/osint-austria-188ac5b7ed5e)
 
 ## Belarus
-
+- [OSINT-Tools-Belarus | Github](https://github.com/paulpogoda/OSINT-Tools-Belarus)
 - [Belarus](https://github.com/soxoj/counter-osint-guide-en/blob/main/pages/belarus.md)
 
 ## Belgium
@@ -110,11 +112,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Resources for Hungary](https://start.me/p/kxGLzd/hun-osint)
 
 ## Iceland
-
 - [Iceland OSINT](https://start.me/p/RM4Xae/iceland)
 
 ## India 
-
 - [OSINT resources in India](https://start.me/p/vjR5wL/osint-resources-in-india)
 
 ## Iran
@@ -143,14 +143,19 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Netherlands
 - [Awesome Dutch OSINT GitHub Repository](https://github.com/wvanderp/awesome-dutch-osint)
+- [OSINT-Tools-Netherlands | Github](https://github.com/paulpogoda/OSINT-Tools-Netherlands/tree/master)
 
 ## New Zealand
 - [OSINT New Zealand](https://www.osint.nz/)
+
+## North Korea
+- [OSINT-Tools-North-Korea | Github](https://github.com/paulpogoda/OSINT-Tools-North-Korea)
 
 ## Poland 
 - [Poland OSINTFRAMEWORK](https://osintframework.pl/)
 - [OSINT Poland](https://github.com/9wind/OSINT-Poland)
 - [Otwarte Zrodla](https://otwartezrodla.pl/)
+- [OSINT-Tools-Poland | Github](https://github.com/paulpogoda/OSINT-Tools-Poland)
 
 ## Pakistan
 - [Phone Numbers Search](https://paksim.info/) 
@@ -160,6 +165,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Russia
 - [OSINT: Darkweb & Russia](https://start.me/p/kx5qL5/osint-darkweb-russia)
 - [OSINT Russie IEC-IES](https://start.me/p/0PeKwy/osint-russie-iec-ies)
+- [OSINT-Tools-Russia | Github](https://github.com/paulpogoda/OSINT-Tools-Russia)
+
+## Saudi Arabia
+- [OSINT Tools Saudi Arabia | Github](https://github.com/paulpogoda/OSINT-Tools-Saudi-Arabia)
 
 ## South Africa
 - [OSINT South Africa](https://start.me/p/KMAbkB/osint-south-africa)
@@ -178,6 +187,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 - [OSINT Tools Tajikistan](https://github.com/paulpogoda/OSINT-Tools-Tajikistan)
 
+## Taiwan
+- [OSINT-Tools-Taiwan | Github](https://github.com/paulpogoda/OSINT-Tools-Taiwan)
+
 ## Thailand
 - [Awesome OSINT Thai](https://github.com/wasdee/awesome-osint-thai)
 
@@ -188,6 +200,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## United Kingdom
 - [OSINT UK Resources](https://start.me/p/gyq0Rz/united-kingdom)
 - [UK OSINT](https://www.uk-osint.net/)
+- [OSINT-Tools-UK | Github](https://github.com/paulpogoda/OSINT-Tools-UK)
 
 ## USA
 - [US OSINT](https://start.me/p/GEQXv7/osint-us)
