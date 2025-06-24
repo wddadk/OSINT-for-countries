@@ -116,6 +116,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## India 
 - [OSINT resources in India](https://start.me/p/vjR5wL/osint-resources-in-india)
+- [OSINT of India](https://unishka.substack.com/p/osint-of-india)
 
 ## Iran
 
