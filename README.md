@@ -24,6 +24,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Hungary](#hungary)
 - [Iceland](#hungary)
 - [India](#india)
+- [Indonesia](#indonesia)
 - [Iran](#iran)
 - [Israel](#israel)
 - [Japan](#japan)
@@ -98,7 +99,6 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools-China | GitHub](https://github.com/paulpogoda/OSINT-Tools-China)
 
 ## Colombia
-
 - [OSINT in Colombia](https://github.com/BeHackerPro/OSINT_in_Colombia)
 - [GEOINT Colombia](https://github.com/Bugs-B0unt3r/geoint-colombia)
 
@@ -118,8 +118,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT resources in India](https://start.me/p/vjR5wL/osint-resources-in-india)
 - [OSINT of India](https://unishka.substack.com/p/osint-of-india)
 
-## Iran
+## Indonesia
+- [OSINT of Indonesia](https://substack.com/home/post/p-173005581)
 
+## Iran
 - [OSINT OF IRAN Part 1](https://web.archive.org/web/20231224135808/https://t.me/OsintLosena/568) & [OSINT OF IRAN Part 2](https://web.archive.org/web/20231224135949/https://t.me/OsintLosena/569)
 - [OSINT-Tools-Iran | GitHub](https://github.com/paulpogoda/OSINT-Tools-Iran)
 
@@ -185,7 +187,6 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools-Syria | GitHub](https://github.com/paulpogoda/OSINT-Tools-Syria)
 
 ## Tajikistan
-
 - [OSINT Tools Tajikistan](https://github.com/paulpogoda/OSINT-Tools-Tajikistan)
 
 ## Taiwan
