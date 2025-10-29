@@ -21,6 +21,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [China](#china)
 - [Colombia](#colombia)
 - [Czechia](#czechia)
+- [France)(#france)
 - [Hungary](#hungary)
 - [Iceland](#hungary)
 - [India](#india)
@@ -107,6 +108,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Cadastral Information](https://ikatastr.cz/)
 - [Business Lookup](https://www.firmy.cz/)
 - [Business License Lookup (IČO)](https://rejstrik-firem.kurzy.cz/ico/vyhledavani/)
+
+## France
+
+- [OSINT HUB FR](https://github.com/Anadema/OSINT-HUB-FR)
 
 ## Hungary
 - [OSINT Resources for Hungary](https://start.me/p/kxGLzd/hun-osint)
