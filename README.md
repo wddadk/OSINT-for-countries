@@ -21,7 +21,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [China](#china)
 - [Colombia](#colombia)
 - [Czechia](#czechia)
-- [France](france)
+- [France](#france)
 - [Hungary](#hungary)
 - [Iceland](#hungary)
 - [India](#india)
