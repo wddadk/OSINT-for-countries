@@ -8,7 +8,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Table of Contents
 
+- [Afghanistan](#afghanistan)
 - [Albania](#albania)
+- [American Samoa](#american-samoa)
 - [Argentina](#argentina)
 - [Armenia](#armenia)
 - [Australia](#australia)
@@ -53,9 +55,21 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ---
 
+## Afghanistan
+
+- [OSINT  of Afghanistan](https://web.archive.org/web/20240105215117/https://t.me/OsintLosena/555)
+
 ## Albania
 
 - [A GUIDE TO INVESTIGATIVE REPORTING IN ALBANIA](https://www.osce.org/files/f/documents/3/0/201276.pdf)
+- [OSINT of Albania](https://unishka.substack.com/p/osint-of-albania)
+
+# American Samoa
+
+- [Official American Samoa Government Portal – Central hub for government departments, press releases, official announcements, and agency links (law enforcement, public services, immigration notices, and more). ](https://www.americansamoa.gov/)
+- [American Samoa GIS Portal (ArcGIS Open Data) – Central open GIS repository for geographic features, biological data, hydrography, etc. Great for spatial OSINT and mapping](https://maps-asgis.opendata.arcgis.com)
+- [American Samoa CMSP Data Portal – Interactive geographic + demographic layers (airports, marine sanctuary boundaries, population distribution, EEZ, watersheds)](https://americansamoa-data.sprep.org)
+- [Samoa Business Registry](https://www.businessregistries.gov.ws/)
 
 ## Argentina
 
@@ -64,6 +78,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Armenia
 
 - [OSINT Tools Armenia](https://github.com/paulpogoda/OSINT-Tools-Armenia)
+- [OSINT OF ARMENIA](https://web.archive.org/web/20251229084338/https://t.me/OsintLosena/1318)
 
 ## Australia
 - [DFW1N-OSINT GitHub Repository](https://github.com/DFW1N/DFW1N-OSINT)
