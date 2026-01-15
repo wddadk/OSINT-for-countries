@@ -15,13 +15,18 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Armenia](#armenia)
 - [Australia](#australia)
 - [Austria](#austria)
+- [Azerbaijan](#azerbaijan)
+- [Bangladesh](#bangladesh)
 - [Belarus](#belarus)
 - [Belgium](#belgium)
 - [Brazil](#brazil)
 - [Bulgaria](#bulgaria)
+- [Cabo Verde](#cabo-verde)
 - [Canada](#canada)
+- [Chile](#chile)
 - [China](#china)
 - [Colombia](#colombia)
+- [Cuba](#cuba)
 - [Czechia](#czechia)
 - [France](#france)
 - [Hungary](#hungary)
@@ -90,6 +95,15 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 - [Austria OSINT](https://osintteam.blog/osint-austria-188ac5b7ed5e)
 
+## Azerbaijan
+
+-[OSINT-Tools-Azerbaijan](https://github.com/paulpogoda/OSINT-Tools-Azerbaijan/)
+
+## Bangladesh
+
+- [Bangladesh OSINT Directory](https://bd-osint.rafat.cc/)
+- [OSINT-Tools-Bangladesh](https://github.com/seotausif/OSINT-Tools-Bangladesh)
+
 ## Belarus
 - [OSINT-Tools-Belarus | Github](https://github.com/paulpogoda/OSINT-Tools-Belarus)
 - [Belarus](https://github.com/soxoj/counter-osint-guide-en/blob/main/pages/belarus.md)
@@ -103,6 +117,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Bulgaria
 - [OSINT Tools Bulgaria](https://github.com/LinaYorda/OSINT-Tools-Bulgaria)
 
+## Cabo Verde
+
+- [osint-caboverde](https://github.com/ladislau32562/osint-caboverde)
+
 ## Canada
 - [OSINT Resources in Canada](https://start.me/p/aLe0vp/osint-resources-in-canada)
 - [Canada OSINT (CANOSINT)](https://start.me/p/9E5BLR/canosint)
@@ -110,6 +128,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Canada](https://start.me/p/dlbyRn/canada)
 - [Canadian OSINT](https://github.com/S3V3N11S/Canadian-OSINT-)
   
+## Chile
+- [Herramientas OSINT Chile](https://www.reddit.com/r/chileIT/comments/1ndj5tq/herramientas_osint/)
+
 ## China
 - [OSINT China Resources](https://start.me/p/GE7JQb/osint)
 - [OSINT China](https://start.me/p/7kLY9R/osint-chine)
@@ -118,6 +139,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Colombia
 - [OSINT in Colombia](https://github.com/BeHackerPro/OSINT_in_Colombia)
 - [GEOINT Colombia](https://github.com/Bugs-B0unt3r/geoint-colombia)
+
+## Cuba
+
+- [OSINT Probe into Cuba](https://github.com/Ringmast4r/Cuba)
 
 ## Czechia
 - [Car Info from Licence Plate (SPZ)](https://www.epojisteni.cz/) (You don't have to buy anything, just put your numbers in to get info on the car)
@@ -250,6 +275,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [HBG North America](https://start.me/p/ZQdorV/hbg-north-america-prospect-research-links) - North America research resources
 - [HBG Middle East](https://start.me/p/ZYaxaJ/hbg-middle-east-prospect-research-links) - Middle East research resources
 - [Geotips Map](https://geotips.net) - World map with tips for Geo-OSINT
+- [Open Source Intelligence Resources](https://cyberint.uk/osint_tools/) - `North America, South America, Europe, Africa, Asia, Oceania, Middle East`
+- [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers) - `CANADA, CYPRUS, DENMARK, ESTONIA, FRANCE, NORWAY, RUSSIA, SWEDEN, SWITZERLAND, UNITED KINGDOM, USA, AUSTRALIA`
   
 ---
 
