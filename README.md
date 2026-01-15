@@ -43,6 +43,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Saudi Arabia](#saudi-arabia)
 - [South Africa](#south-africa)
 - [South Korea](#south-korea)
+- [Sweden](#sweden)
 - [Switzerland](#switzerland)
 - [Tajikistan](#tajikistan)
 - [Taiwan](#taiwan)
@@ -199,6 +200,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## South Korea
 - [OSINT Korea GitHub Repository](https://github.com/SwanLeeSec/rokinttool)
 - [Korean OSINT Tips](https://osintstan.medium.com/top-five-korean-osint-tips-b578e2dec010)
+
+## Sweden
+- [OSINT-Tools-Sweden | Github](https://github.com/tr3sp4ss3rexe/OSINT-Tools-Sweden)
 
 ## Switzerland
 - [Swiss Online Investigation Toolkit](https://docs.google.com/spreadsheets/u/0/d/1LHP3gfppDBBPENffw9R7FrhpRxhmP0UhaLiklbQN7tA/htmlview#)
