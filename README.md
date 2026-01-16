@@ -91,7 +91,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Algeria
 
--[OSINT of Algeria](https://unishka.substack.com/p/osint-of-algeria)
+- [OSINT of Algeria](https://unishka.substack.com/p/osint-of-algeria)
 
 # American Samoa
 
@@ -126,14 +126,14 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Azerbaijan
 
--[OSINT-Tools-Azerbaijan](https://github.com/paulpogoda/OSINT-Tools-Azerbaijan/)
+- [OSINT-Tools-Azerbaijan](https://github.com/paulpogoda/OSINT-Tools-Azerbaijan/)
 
 ## Bangladesh
 
 - [Bangladesh OSINT Directory](https://bd-osint.rafat.cc/)
 - [OSINT-Tools-Bangladesh](https://github.com/seotausif/OSINT-Tools-Bangladesh)
 - [OSINT-Tools-Bangladesh](https://github.com/paulpogoda/OSINT-Tools-Bangladesh)
-- [OSINT of Bangladesh(https://unishka.substack.com/p/osint-of-bangladesh)
+- [OSINT of Bangladesh](https://unishka.substack.com/p/osint-of-bangladesh)
 
 ## Belarus
 - [OSINT-Tools-Belarus | Github](https://github.com/paulpogoda/OSINT-Tools-Belarus)
@@ -287,7 +287,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Mongolia
 
--[OSINT of Mongolia](https://unishka.substack.com/p/osint-of-mongolia)
+- [OSINT of Mongolia](https://unishka.substack.com/p/osint-of-mongolia)
 
 ## Morocco
 
@@ -367,7 +367,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Sudan
 
--[OSINT of Sudan](https://unishka.substack.com/p/osint-of-sudan)
+- [OSINT of Sudan](https://unishka.substack.com/p/osint-of-sudan)
 
 ## Sweden
 
@@ -388,7 +388,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 ## Tanzania
 
--[OSINT of Tanzania](https://unishka.substack.com/p/osint-of-tanzania)
+- [OSINT of Tanzania](https://unishka.substack.com/p/osint-of-tanzania)
 
 ## Taiwan
 
