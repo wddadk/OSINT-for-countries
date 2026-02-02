@@ -61,7 +61,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [China](#china)
 - [Colombia](#colombia)
 - [Comoros](#comoros)
-- [Congo (DRC)](#congo-drc)
+- [Democratic Republic of the Congo)](#democratic-republic-of-the-congo)
 - [Cook Islands](#cook-islands)
 - [Costa Rica](#costa-rica)
 - [Côte d'Ivoire](#côte-divoire)
@@ -310,6 +310,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Antigua and Barbuda](https://cybdetective.com/osintmap/)
+
 ## Argentina
 
 - [OSINT Guru / Argentina](https://osintguru.azurewebsites.net/country?id=ar)
@@ -630,11 +631,13 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 - [OSINT Tools for African Countries / Comoros](https://cyberint.uk/osint_tools/africa/#comoros)
 - [Worldwide OSINT tools map - Comoros](https://cybdetective.com/osintmap/)
-## Congo (DRC)
+
+## Democratic Republic of the Congo
 
 - [OSINT Guru / DR Congo](https://osintguru.azurewebsites.net/country?id=cd)
 - [World / Search in Bookmarks "DROC"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Congo (DRC)](https://cyberint.uk/osint_tools/africa/#congo-drc)
+- [Worldwide OSINT tools map - Congo](https://cybdetective.com/osintmap/)
 
 ## Cook Islands
 
@@ -706,8 +709,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Business Lookup](https://www.firmy.cz/)
 - [Business License Lookup (IČO)](https://rejstrik-firem.kurzy.cz/ico/vyhledavani/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
-
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
+- [Worldwide OSINT tools map - Czechia](https://cybdetective.com/osintmap/)
 
 ## Denmark
 
