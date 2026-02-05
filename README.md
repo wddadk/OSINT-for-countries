@@ -1876,7 +1876,6 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 - [OSINT Guru / Vanuatu](https://osintguru.azurewebsites.net/country?id=vu)
 - [OSINT Tools for Oceania Countries / Vanuatu](https://cyberint.uk/osint_tools/oceania/#vanuatu)
-
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 ## Vatican City
 
