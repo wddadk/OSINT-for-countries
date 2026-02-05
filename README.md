@@ -254,6 +254,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT  of Afghanistan](https://web.archive.org/web/20240105215117/https://t.me/OsintLosena/555)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Afghanistan](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Akrotiri and Dhekelia
 
 - [OSINT Tools for Middle Eastern Countries / Akrotiri and Dhekelia](https://cyberint.uk/osint_tools/middle_east/#akrotiri-and-dhekelia)
@@ -268,6 +271,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT of Albania](https://unishka.substack.com/p/osint-of-albania)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Albania](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Algeria
 
 - [OSINT Guru / Algeria](https://osintguru.azurewebsites.net/country?id=dz)
@@ -277,6 +284,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT of Algeria](https://unishka.substack.com/p/osint-of-algeria)
 - [Worldwide OSINT tools map - Algeria](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## American Samoa
 
@@ -293,8 +302,11 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Andorra"](https://start.me/p/lLaoXv/07-world)
 - [OSINT RESOURCES BY COUNTRY / ANDORRA](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for European Countries / Andorra](https://cyberint.uk/osint_tools/europe/#andorra)
-
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Angola
 
 - [OSINT Guru / Angola](https://osintguru.azurewebsites.net/country?id=ao)
@@ -303,6 +315,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for African Countries / Angola](https://cyberint.uk/osint_tools/africa/#angola)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Angola](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Antigua and Barbuda
 
 - [OSINT Guru / Antigua and Barbuda](https://osintguru.azurewebsites.net/country?id=ag)
@@ -310,6 +325,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Antigua and Barbuda](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Argentina
 
@@ -322,6 +339,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Argentina](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Armenia
 
@@ -334,10 +353,15 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT of Armenia](https://unishka.substack.com/p/osint-of-armenia)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Armenia](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Aruba
 
 - [OSINT Guru / Aruba](https://osintguru.azurewebsites.net/country?id=aw)
 - [OSINT Tools for North American Countries / Aruba (Netherlands)](https://cyberint.uk/osint_tools/north_america/#aruba-netherlands)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 
 ## Australia
 
@@ -354,6 +378,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Worldwide OSINT tools map - Australia](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Austria
 
@@ -366,6 +393,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Austria](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Azerbaijan
 
@@ -375,6 +405,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools-Azerbaijan](https://github.com/paulpogoda/OSINT-Tools-Azerbaijan/)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Azerbaijan](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Bahamas
 
 - [OSINT Guru / Bahamas](https://osintguru.azurewebsites.net/country?id=bs)
@@ -382,6 +415,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for North American Countries / Bahamas](https://cyberint.uk/osint_tools/north_america/#bahamas)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Bahamas](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Bahrain
 
 - [OSINT Guru / Bahrain](https://osintguru.azurewebsites.net/country?id=bh)
@@ -389,6 +425,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Middle Eastern Countries / Bahrain](https://cyberint.uk/osint_tools/middle_east/#bahrain)
 - [OSINT RESOURCES BY COUNTRY / BAHRAIN](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [Worldwide OSINT tools map - Bahrain](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Bangladesh
 
 - [OSINT Guru / Bangladesh](https://osintguru.azurewebsites.net/country?id=bd)
@@ -401,12 +440,18 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT of Bangladesh](https://unishka.substack.com/p/osint-of-bangladesh)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Bangladesh](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Barbados
 
 - [OSINT Guru / Barbados](https://osintguru.azurewebsites.net/country?id=bb)
 - [World / Search in Bookmarks "Barbados"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for North American Countries / Barbados](https://cyberint.uk/osint_tools/north_america/#barbados)
 - [Worldwide OSINT tools map - Barbados](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Belarus
 
 - [OSINT Guru / Belarus](https://osintguru.azurewebsites.net/country?id=by)
@@ -418,6 +463,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Belarus](https://github.com/soxoj/counter-osint-guide-en/blob/main/pages/belarus.md)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Belarus](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Belgium
 
 - [OSINT Guru / Belgium](https://osintguru.azurewebsites.net/country?id=be)
@@ -428,6 +476,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Belgium](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Belize
 
@@ -437,6 +488,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for North American Countries / Belize](https://cyberint.uk/osint_tools/north_america/#belize)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Belize](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Benin
 
 - [OSINT Guru / Benin](https://osintguru.azurewebsites.net/country?id=bj)
@@ -444,10 +498,15 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for African Countries / Benin](https://cyberint.uk/osint_tools/africa/#benin)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Benin](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Bermuda
 
 - [OSINT Guru / Bermuda](https://osintguru.azurewebsites.net/country?id=bm)
 - [OSINT Tools for North American Countries / Bermuda (UK)](https://cyberint.uk/osint_tools/north_america/#bermuda-uk)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 
 ## Bhutan
 
@@ -457,6 +516,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT RESOURCES BY COUNTRY / BHUTAN](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Bhutan](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Brunei
 
 - [OSINT Guru / Brunei](https://osintguru.azurewebsites.net/country?id=bn)
@@ -464,6 +526,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Asian Countries / Brunei](https://cyberint.uk/osint_tools/asia/#brunei)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Brunei](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Bolivia
 
 - [OSINT Guru / Bolivia](https://osintguru.azurewebsites.net/country?id=bo)
@@ -472,6 +537,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for South American Countries / Bolivia](https://cyberint.uk/osint_tools/south_america/#bolivia)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Bolivia](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Bosnia and Herzegovina
 
 - [OSINT Guru / Bosnia and Herzegovina](https://osintguru.azurewebsites.net/country?id=ba)
@@ -481,12 +549,17 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Bosnia and Herzegovina](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Botswana
 
 - [OSINT Guru / Botswana](https://osintguru.azurewebsites.net/country?id=bw)
 - [World / Search in Bookmarks "Botswana"](https://start.me/p/lLaoXv/07-world)
 - [Worldwide OSINT tools map - Botswana](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Brazil
 
 - [OSINT Guru / Brazil](https://osintguru.azurewebsites.net/country?id=br)
@@ -497,14 +570,18 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Brazil](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## British Virgin Islands
 
 - [OSINT Guru / British Virgin Islands](https://osintguru.azurewebsites.net/country?id=vg)
 - [OSINT RESOURCES BY COUNTRY / BRITISH VIRGIN ISLANDS](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
-
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+
 ## Bulgaria
 
 - [OSINT Guru / Bulgaria](https://osintguru.azurewebsites.net/country?id=bg)
@@ -516,6 +593,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools-Bulgaria](https://github.com/paulpogoda/OSINT-Tools-Bulgaria)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Bulgaria](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Burkina Faso
 
 - [OSINT Guru / Burkina Faso](https://osintguru.azurewebsites.net/country?id=bf)
@@ -524,12 +605,17 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Burkina Faso](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Burundi
 
 - [OSINT Guru / Burundi](https://osintguru.azurewebsites.net/country?id=bi)
 - [OSINT Tools for African Countries / Burundi](https://cyberint.uk/osint_tools/africa/#burundi)
 - [Worldwide OSINT tools map - Burundi](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Cabo Verde
 
 - [OSINT Guru / Cape Verde](https://osintguru.azurewebsites.net/country?id=cv)
@@ -537,6 +623,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [osint-caboverde](https://github.com/ladislau32562/osint-caboverde)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Cabo Verde](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Cambodia
 
 - [OSINT Guru / Cambodia](https://osintguru.azurewebsites.net/country?id=kh)
@@ -544,6 +633,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Asian Countries / Cambodia](https://cyberint.uk/osint_tools/asia/#cambodia)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Cambodia](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Cameroon
 
 - [OSINT Guru / Cameroon](https://osintguru.azurewebsites.net/country?id=cm)
@@ -552,6 +644,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Cameroon](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Canada
 
@@ -568,6 +662,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Worldwide OSINT tools map - Canada](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Caribbean Netherlands
 
@@ -582,13 +679,15 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Cayman Islands](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 
 ## Central African Republic
 
 - [World / Search in Bookmarks "C.A.R."](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Central African Republic](https://cyberint.uk/osint_tools/africa/#central-african-republic)
-
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Chad
 
 - [OSINT Guru / Chad](https://osintguru.azurewebsites.net/country?id=td)
@@ -596,6 +695,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for African Countries / Chad](https://cyberint.uk/osint_tools/africa/#chad)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Chad](https://cybdetective.com/osintmap/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Chile
 
 - [OSINT Guru / Chile](https://osintguru.azurewebsites.net/country?id=cl)
@@ -604,6 +705,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for South American Countries / Chile](https://cyberint.uk/osint_tools/south_america/#chile)
 - [Herramientas OSINT Chile](https://www.reddit.com/r/chileIT/comments/1ndj5tq/herramientas_osint/)
 - [Worldwide OSINT tools map - Chile](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## China
 
 - [OSINT Guru / China](https://osintguru.azurewebsites.net/country?id=cn)
@@ -615,6 +719,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools-China | GitHub](https://github.com/paulpogoda/OSINT-Tools-China)
 - [Worldwide OSINT tools map - China](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Colombia
 
@@ -627,10 +733,15 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT of Colombia](https://unishka.substack.com/p/osint-of-colombia)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Colombia](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Comoros
 
 - [OSINT Tools for African Countries / Comoros](https://cyberint.uk/osint_tools/africa/#comoros)
 - [Worldwide OSINT tools map - Comoros](https://cybdetective.com/osintmap/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Democratic Republic of the Congo
 
@@ -638,6 +749,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "DROC"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Congo (DRC)](https://cyberint.uk/osint_tools/africa/#congo-drc)
 - [Worldwide OSINT tools map - Congo](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Cook Islands
 
@@ -653,16 +766,20 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Costa Rica](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Côte d'Ivoire
 
 - [OSINT Guru / Ivory Coast](https://osintguru.azurewebsites.net/country?id=ci)
 - [World / Search in Bookmarks "Côte d'Ivoire"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Côte d'Ivoire](https://cyberint.uk/osint_tools/africa/#côte-divoire)
-
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Croatia
 
 - [OSINT Guru / Croatia](https://osintguru.azurewebsites.net/country?id=hr)
@@ -672,6 +789,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Croatia](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Cuba
 
@@ -682,10 +802,14 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Probe into Cuba](https://github.com/Ringmast4r/Cuba)
 - [OSINT of Cuba](https://unishka.substack.com/p/osint-of-cuba)
 - [Worldwide OSINT tools map - Cuba](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Curaçao
 
 - [OSINT Guru / Curaçao](https://osintguru.azurewebsites.net/country?id=cw)
 - [OSINT Tools for North American Countries / Curaçao (Netherlands)](https://cyberint.uk/osint_tools/north_america/#curaçao-netherlands)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 
 ## Cyprus
 
@@ -697,6 +821,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Worldwide OSINT tools map - Cyprus](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Czechia
 
@@ -711,6 +838,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Czechia](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Denmark
 
@@ -722,6 +852,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Worldwide OSINT tools map - Denmark](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Djibouti
 
@@ -729,6 +862,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Djibouti"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Djibouti](https://cyberint.uk/osint_tools/africa/#djibouti)
 - [Worldwide OSINT tools map - Djibouti](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Dominica
 
 - [OSINT Guru / Dominica](https://osintguru.azurewebsites.net/country?id=dm)
@@ -736,6 +872,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Dominica](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Dominican Republic
 
@@ -743,6 +880,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT RESOURCES BY COUNTRY / DOMINICAN REPUBLIC](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for North American Countries / Dominican Republic](https://cyberint.uk/osint_tools/north_america/#dominican-republic)
 - [Worldwide OSINT tools map - Dominican Republic](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Ecuador
 
 - [OSINT Guru / Ecuador](https://osintguru.azurewebsites.net/country?id=ec)
@@ -751,6 +891,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for South American Countries / Ecuador](https://cyberint.uk/osint_tools/south_america/#ecuador)
 - [OSINT of Ecuador](https://unishka.substack.com/p/osint-of-ecuador)
 - [Worldwide OSINT tools map - Ecuador](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Egypt
 
 - [OSINT Guru / Egypt](https://osintguru.azurewebsites.net/country?id=eg)
@@ -760,6 +903,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for African Countries / Egypt](https://cyberint.uk/osint_tools/africa/#egypt)
 - [OSINT of Egypt](https://unishka.substack.com/p/osint-of-egypt)
 - [Worldwide OSINT tools map - Egypt](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## El Salvador
 
 - [OSINT Guru / El Salvador](https://osintguru.azurewebsites.net/country?id=sv)
@@ -768,15 +914,19 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for North American Countries / El Salvador](https://cyberint.uk/osint_tools/north_america/#el-salvador)
 - [OSINT of El Salvador](https://unishka.substack.com/p/osint-of-el-salvador)
 - [Worldwide OSINT tools map - El Salvador](https://cybdetective.com/osintmap/)
-## Equatorial Guinea
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
+## Equatorial Guinea
 - [World / Search in Bookmarks "Equatorial Guinea"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Equatorial Guinea](https://cyberint.uk/osint_tools/africa/#equatorial-guinea)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Eritrea
 
 - [OSINT Guru / Eritrea](https://osintguru.azurewebsites.net/country?id=er)
 - [OSINT Tools for African Countries / Eritrea](https://cyberint.uk/osint_tools/africa/#eritrea)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Estonia
 
@@ -788,11 +938,16 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Estonia](https://cybdetective.com/osintmap/)
 - [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers)
-  
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Eswatini
 
 - [OSINT Guru / Eswatini](https://osintguru.azurewebsites.net/country?id=sz)
 - [OSINT Tools for African Countries / Eswatini](https://cyberint.uk/osint_tools/africa/#eswatini)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Ethiopia
 
@@ -800,6 +955,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Ethiopia"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Ethiopia](https://cyberint.uk/osint_tools/africa/#ethiopia)
 - [Worldwide OSINT tools map - Ethiopia](https://cybdetective.com/osintmap/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Falkland Islands
 
 - [OSINT Tools for South American Countries / Falkland Islands](https://cyberint.uk/osint_tools/south_america/#falkland-islands)
@@ -810,6 +967,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Oceania Countries / Fiji](https://cyberint.uk/osint_tools/oceania/#fiji)
 - [OSINT RESOURCES BY COUNTRY / FIJI](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [Worldwide OSINT tools map - Fiji](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Finland
 
 - [OSINT Guru / Finland](https://osintguru.azurewebsites.net/country?id=fi)
@@ -817,6 +977,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT RESOURCES BY COUNTRY / FINLAND](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for European Countries / Finland](https://cyberint.uk/osint_tools/europe/#finland)
 - [Worldwide OSINT tools map - Finland](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## France
 
 - [OSINT Guru / France](https://osintguru.azurewebsites.net/country?id=fr)
@@ -829,6 +993,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Worldwide OSINT tools map - France](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## French Guiana
 
@@ -846,11 +1013,15 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Gabon"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Gabon](https://cyberint.uk/osint_tools/africa/#gabon)
 - [Worldwide OSINT tools map - Gabon](https://cybdetective.com/osintmap/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Gambia
 
 - [OSINT Guru / Gambia](https://osintguru.azurewebsites.net/country?id=gm)
 - [World / Search in Bookmarks "The Gambia"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Gambia](https://cyberint.uk/osint_tools/africa/#gambia)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Georgia
 
@@ -859,6 +1030,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Asian Countries / Georgia](https://cyberint.uk/osint_tools/asia/#georgia)
 - [OSINT RESOURCES BY COUNTRY / GEORGIA](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [Worldwide OSINT tools map - Georgia](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Germany
 
 - [OSINT Guru / Germany](https://osintguru.azurewebsites.net/country?id=de)
@@ -867,6 +1041,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for European Countries / Germany](https://cyberint.uk/osint_tools/europe/#germany)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Germany](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Ghana
 
 - [OSINT Guru / Ghana](https://osintguru.azurewebsites.net/country?id=gh)
@@ -874,13 +1052,18 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for African Countries / Ghana](https://cyberint.uk/osint_tools/africa/#ghana)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Ghana](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Gibraltar
 
 - [OSINT Guru / Gibraltar](https://osintguru.azurewebsites.net/country?id=gi)
 - [OSINT RESOURCES BY COUNTRY / GIBRALTAR](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
-
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+
 ## Greece
 
 - [OSINT Guru / Greece](https://osintguru.azurewebsites.net/country?id=gr)
@@ -889,8 +1072,11 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for European Countries / Greece](https://cyberint.uk/osint_tools/europe/#greece)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Greece](https://cybdetective.com/osintmap/)
-## Greenland
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
+## Greenland
 - [OSINT Guru / Greenland](https://osintguru.azurewebsites.net/country?id=gl)
 - [OSINT RESOURCES BY COUNTRY / GREENLAND](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for North American Countries / Greenland (Kingdom of Denmark)](https://cyberint.uk/osint_tools/north_america/#greenland-kingdom-of-denmark)
@@ -898,6 +1084,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Grenada
 
 - [OSINT Tools for North American Countries / Grenada](https://cyberint.uk/osint_tools/north_america/#grenada)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Guadeloupe
 
@@ -911,11 +1098,15 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT RESOURCES BY COUNTRY / GUATEMALA](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for North American Countries / Guatemala](https://cyberint.uk/osint_tools/north_america/#guatemala)
 - [Worldwide OSINT tools map - Guatemala](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Guam
 
 - [OSINT Guru / Guam](https://osintguru.azurewebsites.net/country?id=gu)
 - [World / Search in Bookmarks "Guam"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Oceania Countries / Guam (US)](https://cyberint.uk/osint_tools/oceania/#guam-us)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 
 ## Guinea
 
@@ -923,16 +1114,20 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Guinea"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Guinea](https://cyberint.uk/osint_tools/africa/#guinea)
 - [Worldwide OSINT tools map - Guinea](https://cybdetective.com/osintmap/)
-## Guinea-Bissau
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
+## Guinea-Bissau
 - [World / Search in Bookmarks "Guinea-Bissau"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Guinea-Bissau](https://cyberint.uk/osint_tools/africa/#guinea-bissau)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Guyana
 
 - [OSINT Guru / Guyana](https://osintguru.azurewebsites.net/country?id=gy)
 - [World / Search in Bookmarks "Guyana"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for South American Countries / Guyana](https://cyberint.uk/osint_tools/south_america/#guyana)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Haiti
 
@@ -940,6 +1135,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Haiti"](https://start.me/p/lLaoXv/07-world)
 - [OSINT RESOURCES BY COUNTRY / HAITI](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for North American Countries / Haiti](https://cyberint.uk/osint_tools/north_america/#haiti)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Honduras
 
@@ -947,11 +1143,16 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Honduras"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for North American Countries / Honduras](https://cyberint.uk/osint_tools/north_america/#honduras)
 - [Worldwide OSINT tools map - Honduras](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Hong Kong
 
 - [OSINT Guru / Hong Kong](https://osintguru.azurewebsites.net/country?id=hk)
 - [OSINT Tools for Asian Countries / Hong Kong](https://cyberint.uk/osint_tools/asia/#hong-kong)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 
 ## Hungary
 
@@ -962,6 +1163,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Resources for Hungary](https://start.me/p/kxGLzd/hun-osint)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Hungary](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Iceland
 
 - [OSINT Guru / Iceland](https://osintguru.azurewebsites.net/country?id=is)
@@ -970,8 +1175,11 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for European Countries / Iceland](https://cyberint.uk/osint_tools/europe/#iceland)
 - [Iceland OSINT](https://start.me/p/RM4Xae/iceland)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
-
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## India 
 
 - [OSINT Guru / India](https://osintguru.azurewebsites.net/country?id=in)
@@ -983,6 +1191,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - India](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Indonesia
 
@@ -993,6 +1204,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Indonesia](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Iran
 
@@ -1003,6 +1216,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools-Iran | GitHub](https://github.com/paulpogoda/OSINT-Tools-Iran)
 - [Worldwide OSINT tools map - Iran](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Iraq
 
@@ -1011,6 +1226,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Middle Eastern Countries / Iraq](https://cyberint.uk/osint_tools/middle_east/#iraq)
 - [OSINT of Iraq](https://unishka.substack.com/p/osint-of-iraq)
 - [OSINT-Tools-Iraq](https://github.com/paulpogoda/OSINT-Tools-Iraq)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Ireland
 
@@ -1019,6 +1235,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for European Countries / Ireland](https://cyberint.uk/osint_tools/europe/#ireland)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Ireland](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Israel
 
 - [OSINT Guru / Israel](https://osintguru.azurewebsites.net/country?id=il)
@@ -1028,6 +1248,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT of Israel](https://unishka.substack.com/p/osint-of-israel)
 - [OSINT-Tools-Israel](https://github.com/paulpogoda/OSINT-Tools-Israel)
 - [Worldwide OSINT tools map - Israel](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Italy
 
 - [OSINT Guru / Italy](https://osintguru.azurewebsites.net/country?id=it)
@@ -1037,6 +1261,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Italy](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Jamaica
 
@@ -1045,7 +1272,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT RESOURCES BY COUNTRY / JAMAICA](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for North American Countries / Jamaica](https://cyberint.uk/osint_tools/north_america/#jamaica)
 - [Worldwide OSINT tools map - Jamaica](https://cybdetective.com/osintmap/)
-  
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Japan
 
 - [OSINT Guru / Japan](https://osintguru.azurewebsites.net/country?id=jp)
@@ -1058,7 +1287,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Worldwide OSINT tools map - Japan](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [HBG Asia-Pacific resources](https://start.me/p/3KMwaw/hbg-asia-pacific-resources)
-
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Jordan
 
@@ -1066,6 +1296,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Jordan"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Middle Eastern Countries / Jordan](https://cyberint.uk/osint_tools/middle_east/#jordan)
 - [Worldwide OSINT tools map - Jordan](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Kazakhstan
 
 - [OSINT Guru / Kazakhstan](https://osintguru.azurewebsites.net/country?id=kz)
@@ -1074,6 +1308,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools Kazakhstan GitHub](https://github.com/paulpogoda/OSINT-Tools-Kazakhstan)
 - [Worldwide OSINT tools map - Kazakhstan](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Kenya
 
@@ -1081,10 +1317,14 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Kenya"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Kenya](https://cyberint.uk/osint_tools/africa/#kenya)
 - [Worldwide OSINT tools map - Kenya](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Kiribati
 
 - [OSINT Guru / Kiribati](https://osintguru.azurewebsites.net/country?id=ki)
 - [OSINT Tools for Oceania Countries / Kiribati](https://cyberint.uk/osint_tools/oceania/#kiribati)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Kuwait
 
@@ -1093,6 +1333,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Middle Eastern Countries / Kuwait](https://cyberint.uk/osint_tools/middle_east/#kuwait)
 - [Worldwide OSINT tools map - Kuwait](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Kyrgyzstan
 
@@ -1101,12 +1342,18 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Asian Countries / Kyrgyzstan](https://cyberint.uk/osint_tools/asia/#kyrgyzstan)
 - [OSINT Tools Kyrgyzstan GitHub](https://github.com/paulpogoda/OSINT-Tools-Kyrgyzstan)
 - [Worldwide OSINT tools map - Kyrgyzstan](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Laos
 
 - [OSINT Guru / Laos](https://osintguru.azurewebsites.net/country?id=la)
 - [World / Search in Bookmarks "Laos"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Asian Countries / Laos](https://cyberint.uk/osint_tools/asia/#laos)
 - [Worldwide OSINT tools map - Laos](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Latvia
 
 - [OSINT Guru / Latvia](https://osintguru.azurewebsites.net/country?id=lv)
@@ -1115,6 +1362,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools-Latvia](https://github.com/paulpogoda/OSINT-Tools-Latvia)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Latvia](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Lebanon
 
 - [OSINT Guru / Lebanon](https://osintguru.azurewebsites.net/country?id=lb)
@@ -1122,12 +1373,18 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Middle Eastern Countries / Lebanon](https://cyberint.uk/osint_tools/middle_east/#lebanon)
 - [OSINT of Lebanon](https://unishka.substack.com/p/osint-of-lebanon)
 - [Worldwide OSINT tools map - Lebanon](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Lesotho
 
 - [OSINT Guru / Lesotho](https://osintguru.azurewebsites.net/country?id=ls)
 - [World / Search in Bookmarks "Lesotho"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Lesotho](https://cyberint.uk/osint_tools/africa/#lesotho)
 - [Worldwide OSINT tools map - Lesotho](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Liberia
 
 - [OSINT Guru / Liberia](https://osintguru.azurewebsites.net/country?id=lr)
@@ -1135,12 +1392,17 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for African Countries / Liberia](https://cyberint.uk/osint_tools/africa/#liberia)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Liberia](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Libya
 
 - [OSINT Guru / Libya](https://osintguru.azurewebsites.net/country?id=ly)
 - [World / Search in Bookmarks "Libya"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Libya](https://cyberint.uk/osint_tools/africa/#libya)
 - [Worldwide OSINT tools map - Libya](https://cybdetective.com/osintmap/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Lithuania
 
 - [OSINT Guru / Lithuania](https://osintguru.azurewebsites.net/country?id=lt)
@@ -1148,6 +1410,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools-Lithuania](https://github.com/paulpogoda/OSINT-Tools-Lithuania)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Lithuania](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Luxembourg
 
 - [OSINT Guru / Luxembourg](https://osintguru.azurewebsites.net/country?id=lu)
@@ -1155,10 +1421,15 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for European Countries / Luxembourg](https://cyberint.uk/osint_tools/europe/#luxembourg)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Luxembourg](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Macao
 
 - [OSINT Guru / Macau](https://osintguru.azurewebsites.net/country?id=mo)
 - [OSINT Tools for Asian Countries / Macao](https://cyberint.uk/osint_tools/asia/#macao)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 
 ## Madagascar
 
@@ -1166,12 +1437,18 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Madagascar"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Madagascar](https://cyberint.uk/osint_tools/africa/#madagascar)
 - [Worldwide OSINT tools map - Madagascar](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Malawi
 
 - [OSINT Guru / Malawi](https://osintguru.azurewebsites.net/country?id=mw)
 - [World / Search in Bookmarks "Malawi"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Malawi](https://cyberint.uk/osint_tools/africa/#malawi)
 - [Worldwide OSINT tools map - Malawi](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Malaysia
 
 - [OSINT Guru / Malaysia](https://osintguru.azurewebsites.net/country?id=my)
@@ -1179,10 +1456,16 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Asian Countries / Malaysia](https://cyberint.uk/osint_tools/asia/#malaysia)
 - [OSINT in Malaysia resources](https://start.me/p/KMqwBB/osint-in-malaysia-resources)
 - [Worldwide OSINT tools map - Malaysia](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Maldives
 
 - [OSINT Guru / Maldives](https://osintguru.azurewebsites.net/country?id=mv)
 - [OSINT Tools for Asian Countries / Maldives](https://cyberint.uk/osint_tools/asia/#maldives)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Mali
 
@@ -1190,6 +1473,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Mali"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Mali](https://cyberint.uk/osint_tools/africa/#mali)
 - [Worldwide OSINT tools map - Mali](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Malta
 
 - [OSINT Guru / Malta](https://osintguru.azurewebsites.net/country?id=mt)
@@ -1198,13 +1484,18 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Malta](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Marshall Islands
 
 - [OSINT Guru / Marshall Islands](https://osintguru.azurewebsites.net/country?id=mh)
 - [OSINT Tools for Oceania Countries / Marshall Islands](https://cyberint.uk/osint_tools/oceania/#marshall-islands)
-
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Martinique
 
 - [OSINT Guru / Martinique](https://osintguru.azurewebsites.net/country?id=mq)
@@ -1216,12 +1507,18 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Mauritania"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Mauritania](https://cyberint.uk/osint_tools/africa/#mauritania)
 - [Worldwide OSINT tools map - Mauritania](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Mauritius
 
 - [OSINT Guru / Mauritius](https://osintguru.azurewebsites.net/country?id=mu)
 - [OSINT Tools for African Countries / Mauritius](https://cyberint.uk/osint_tools/africa/#mauritius)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Mauritius](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Mexico
 
 - [OSINT Guru / Mexico](https://osintguru.azurewebsites.net/country?id=mx)
@@ -1231,19 +1528,27 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT of Mexico](https://unishka.substack.com/p/osint-of-mexico)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Mexico](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Micronesia
 
 - [OSINT Tools for Oceania Countries / Micronesia](https://cyberint.uk/osint_tools/oceania/#micronesia)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Moldova
 
 - [OSINT Guru / Moldova](https://osintguru.azurewebsites.net/country?id=md)
 - [OSINT Tools for European Countries / Moldova](https://cyberint.uk/osint_tools/europe/#moldova)
 - [Worldwide OSINT tools map - Moldova](https://cybdetective.com/osintmap/)
-## Monaco
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
+## Monaco
 - [OSINT Guru / Monaco](https://osintguru.azurewebsites.net/country?id=mc)
 - [OSINT Tools for European Countries / Monaco](https://cyberint.uk/osint_tools/europe/#monaco)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Mongolia
 
@@ -1252,12 +1557,18 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Asian Countries / Mongolia](https://cyberint.uk/osint_tools/asia/#mongolia)
 - [OSINT of Mongolia](https://unishka.substack.com/p/osint-of-mongolia)
 - [Worldwide OSINT tools map - Mongolia](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Montenegro
 
 - [OSINT Guru / Montenegro](https://osintguru.azurewebsites.net/country?id=me)
 - [OSINT Tools for European Countries / Montenegro](https://cyberint.uk/osint_tools/europe/#montenegro)
 
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Montserrat
 
 - [OSINT Guru / Montserrat](https://osintguru.azurewebsites.net/country?id=ms)
@@ -1271,28 +1582,40 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT of Morocco](https://unishka.substack.com/p/osint-of-morocco)
 - [Worldwide OSINT tools map - Morocco](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Mozambique
 
 - [OSINT Guru / Mozambique](https://osintguru.azurewebsites.net/country?id=mz)
 - [OSINT Tools for African Countries / Mozambique](https://cyberint.uk/osint_tools/africa/#mozambique)
 - [Worldwide OSINT tools map - Mozambique](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Myanmar
 
 - [OSINT Guru / Myanmar](https://osintguru.azurewebsites.net/country?id=mm)
 - [World / Search in Bookmarks "Myanmar"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Asian Countries / Myanmar](https://cyberint.uk/osint_tools/asia/#myanmar)
 - [Worldwide OSINT tools map - Myanmar](https://cybdetective.com/osintmap/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Namibia
 
 - [OSINT Guru / Namibia](https://osintguru.azurewebsites.net/country?id=na)
 - [World / Search in Bookmarks "Namibia"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Namibia](https://cyberint.uk/osint_tools/africa/#namibia)
 - [Worldwide OSINT tools map - Namibia](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Nauru
 
 - [OSINT Guru / Nauru](https://osintguru.azurewebsites.net/country?id=nr)
 - [OSINT Tools for Oceania Countries / Nauru](https://cyberint.uk/osint_tools/oceania/#nauru)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Nepal
 
@@ -1302,6 +1625,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT RESOURCES BY COUNTRY / NEPAL](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT of Nepal](https://unishka.substack.com/p/osint-of-nepal)
 - [Worldwide OSINT tools map - Nepal](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## New Caledonia
 
 - [OSINT Guru / New Caledonia](https://osintguru.azurewebsites.net/country?id=nc)
@@ -1317,6 +1643,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools-Netherlands | Github](https://github.com/paulpogoda/OSINT-Tools-Netherlands/tree/master)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Netherlands](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## New Zealand
 
 - [OSINT Guru / New Zealand](https://osintguru.azurewebsites.net/country?id=nz)
@@ -1325,6 +1655,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT RESOURCES BY COUNTRY / NEW ZEALAND](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT New Zealand](https://www.osint.nz/)
 - [Worldwide OSINT tools map - New Zealand](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Nicaragua
 
 - [OSINT Guru / Nicaragua](https://osintguru.azurewebsites.net/country?id=ni)
@@ -1332,12 +1666,18 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT RESOURCES BY COUNTRY / NICARAGUA](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for North American Countries / Nicaragua](https://cyberint.uk/osint_tools/north_america/#nicaragua)
 - [Worldwide OSINT tools map - Nicaragua](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Niger
 
 - [OSINT Guru / Niger](https://osintguru.azurewebsites.net/country?id=ne)
 - [World / Search in Bookmarks "Niger"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Niger](https://cyberint.uk/osint_tools/africa/#niger)
 - [Worldwide OSINT tools map - Niger](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Nigeria
 
 - [OSINT Guru / Nigeria](https://osintguru.azurewebsites.net/country?id=ng)
@@ -1346,11 +1686,17 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Of Nigeria](https://unishka.substack.com/p/osint-of-nigeria)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Nigeria](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Niue
 
 - [OSINT Guru / Niue](https://osintguru.azurewebsites.net/country?id=nu)
 - [OSINT Tools for Oceania Countries / Niue (NZ)](https://cyberint.uk/osint_tools/oceania/#niue-nz)
 - [Worldwide OSINT tools map - Niue](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+
 ## North Korea
 
 - [OSINT Guru / North Korea](https://osintguru.azurewebsites.net/country?id=kp)
@@ -1359,6 +1705,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools-North-Korea | Github](https://github.com/paulpogoda/OSINT-Tools-North-Korea)
 - [OSINT of North Korea](https://unishka.substack.com/p/osint-of-north-korea)
 - [Worldwide OSINT tools map - North Korea](https://cybdetective.com/osintmap/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Northern Mariana Islands
 
 - [OSINT Guru / Northern Mariana Islands](https://osintguru.azurewebsites.net/country?id=mp)
@@ -1374,13 +1722,19 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Norway](https://cybdetective.com/osintmap/)
 - [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers)
-  
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Oman
 
 - [OSINT Guru / Oman](https://osintguru.azurewebsites.net/country?id=om)
 - [World / Search in Bookmarks "Oman"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Middle Eastern Countries / Oman](https://cyberint.uk/osint_tools/middle_east/#oman)
 - [Worldwide OSINT tools map - Oman](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Pakistan
 
 - [OSINT Guru / Pakistan](https://osintguru.azurewebsites.net/country?id=pk)
@@ -1394,18 +1748,23 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Pakistan](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Palau
 
 - [OSINT Guru / Palau](https://osintguru.azurewebsites.net/country?id=pw)
 - [World / Search in Bookmarks "Palau"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Oceania Countries / Palau](https://cyberint.uk/osint_tools/oceania/#palau)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Palestine
 
 - [OSINT Guru / Palestine](https://osintguru.azurewebsites.net/country?id=ps)
 - [World / Search in Bookmarks "Palestine"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Middle Eastern Countries / State of Palestine](https://cyberint.uk/osint_tools/middle_east/#state-of-palestine)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Panama
 
@@ -1414,6 +1773,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT RESOURCES BY COUNTRY / PANAMA](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for North American Countries / Panama](https://cyberint.uk/osint_tools/north_america/#panama)
 - [Worldwide OSINT tools map - Panama](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Papua New Guinea
 
 - [OSINT Guru / Papua New Guinea](https://osintguru.azurewebsites.net/country?id=pg)
@@ -1421,11 +1783,17 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Oceania Countries / Papua New Guinea](https://cyberint.uk/osint_tools/oceania/#papua-new-guinea)
 - [OSINT RESOURCES BY COUNTRY / PAPUA NEW GUINEA](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [Worldwide OSINT tools map - Papua New Guinea](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Paraguay
 
 - [OSINT Guru / Paraguay](https://osintguru.azurewebsites.net/country?id=py)
 - [OSINT Tools for South American Countries / Paraguay](https://cyberint.uk/osint_tools/south_america/#paraguay)
 - [Worldwide OSINT tools map - Paraguay](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Peru
 
 - [OSINT Guru / Peru](https://osintguru.azurewebsites.net/country?id=pe)
@@ -1433,6 +1801,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT RESOURCES BY COUNTRY / PERU](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for South American Countries / Peru](https://cyberint.uk/osint_tools/south_america/#peru)
 - [Worldwide OSINT tools map - Peru](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Philippines
 
 - [OSINT Guru / Philippines](https://osintguru.azurewebsites.net/country?id=ph)
@@ -1441,6 +1812,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT RESOURCES BY COUNTRY / PHILIPPINES](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT of the Philippines](https://unishka.substack.com/p/osint-of-the-philippines)
 - [Worldwide OSINT tools map - Philippines](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Pitcairn Islands
 
 - [OSINT Tools for Oceania Countries / Pitcairn Islands (UK)](https://cyberint.uk/osint_tools/oceania/#pitcairn-islands-uk)
@@ -1458,6 +1833,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Poland](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Portugal
 
@@ -1467,6 +1845,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Portugal](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Puerto Rico
 
@@ -1474,6 +1855,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Puerto Rico"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for North American Countries / Puerto Rico (US)](https://cyberint.uk/osint_tools/north_america/#puerto-rico-us)
 - [Worldwide OSINT tools map - Puerto Rico](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 ## Qatar
 
 - [OSINT Guru / Qatar](https://osintguru.azurewebsites.net/country?id=qa)
@@ -1481,6 +1863,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Middle Eastern Countries / Qatar](https://cyberint.uk/osint_tools/middle_east/#qatar)
 - [OSINT of Qatar](https://unishka.substack.com/p/osint-of-qatar)
 - [Worldwide OSINT tools map - Qatar](https://cybdetective.com/osintmap/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Romania
 
 - [OSINT Guru / Romania](https://osintguru.azurewebsites.net/country?id=ro)
@@ -1491,6 +1875,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Romania](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Russia
 
@@ -1505,6 +1892,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [Worldwide OSINT tools map - Russia](https://cybdetective.com/osintmap/)
 - [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Rwanda
 
@@ -1512,15 +1901,22 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Rwanda"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Rwanda](https://cyberint.uk/osint_tools/africa/#rwanda)
 - [Worldwide OSINT tools map - Rwanda](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Samoa
 
 - [OSINT Guru / Samoa](https://osintguru.azurewebsites.net/country?id=ws)
 - [OSINT Tools for Oceania Countries / Samoa](https://cyberint.uk/osint_tools/oceania/#samoa)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## São Tomé and Príncipe
 
 - [OSINT Guru / São Tomé and Príncipe](https://osintguru.azurewebsites.net/country?id=st)
 - [World / Search in Bookmarks "São Tomé and Príncipe"](https://start.me/p/lLaoXv/07-world)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Saint Barthélemy
 
@@ -1532,12 +1928,16 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Guru / Saint Kitts and Nevis](https://osintguru.azurewebsites.net/country?id=kn)
 - [World / Search in Bookmarks "St. Kitts & Nevis"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for North American Countries / Saint Kitts and Nevis](https://cyberint.uk/osint_tools/north_america/#saint-kitts-and-nevis)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Saint Lucia
 
 - [OSINT Guru / Saint Lucia](https://osintguru.azurewebsites.net/country?id=lc)
 - [OSINT Tools for North American Countries / Saint Lucia](https://cyberint.uk/osint_tools/north_america/#saint-lucia)
 - [Worldwide OSINT tools map - Saint Lucia](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Saint Martin
 
 - [OSINT Tools for North American Countries / Saint Martin (France)](https://cyberint.uk/osint_tools/north_america/#saint-martin-france)
@@ -1551,12 +1951,17 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 - [OSINT Guru / Saint Vincent and the Grenadines](https://osintguru.azurewebsites.net/country?id=vc)
 - [OSINT Tools for North American Countries / Saint Vincent and the Grenadines](https://cyberint.uk/osint_tools/north_america/#saint-vincent-and-the-grenadines)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## San Marino
 
 - [OSINT Guru / San Marino](https://osintguru.azurewebsites.net/country?id=sm)
 - [OSINT Tools for European Countries / San Marino](https://cyberint.uk/osint_tools/europe/#san-marino)
 - [Worldwide OSINT tools map - San Marino](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Saudi Arabia
 
 - [OSINT Guru / Saudi Arabia](https://osintguru.azurewebsites.net/country?id=sa)
@@ -1565,6 +1970,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT RESOURCES BY COUNTRY / SAUDI ARABIA](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools Saudi Arabia | Github](https://github.com/paulpogoda/OSINT-Tools-Saudi-Arabia)
 - [Worldwide OSINT tools map - Saudi Arabia](https://cybdetective.com/osintmap/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Senegal
 
 - [OSINT Guru / Senegal](https://osintguru.azurewebsites.net/country?id=sn)
@@ -1574,6 +1981,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Senegal](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Serbia
 
@@ -1583,6 +1992,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Serbia](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Seychelles
 
@@ -1590,12 +2002,18 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for African Countries / Seychelles](https://cyberint.uk/osint_tools/africa/#seychelles)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Seychelles](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Sierra Leone
 
 - [OSINT Guru / Sierra Leone](https://osintguru.azurewebsites.net/country?id=sl)
 - [World / Search in Bookmarks "Sierra Leone"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Sierra Leone](https://cyberint.uk/osint_tools/africa/#sierra-leone)
 - [Worldwide OSINT tools map - Sierra Leone](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Singapore
 
 - [OSINT Guru / Singapore](https://osintguru.azurewebsites.net/country?id=sg)
@@ -1605,6 +2023,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Worldwide OSINT tools map - Singapore](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [HBG Asia-Pacific resources](https://start.me/p/3KMwaw/hbg-asia-pacific-resources)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Sint Maarten
 
@@ -1618,6 +2039,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Slovakia](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Slovenia
 
@@ -1626,15 +2050,21 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for European Countries / Slovenia](https://cyberint.uk/osint_tools/europe/#slovenia)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Slovenia](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Solomon Islands
 
 - [OSINT Guru / Solomon Islands](https://osintguru.azurewebsites.net/country?id=sb)
 - [OSINT Tools for Oceania Countries / Solomon Islands](https://cyberint.uk/osint_tools/oceania/#solomon-islands)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Somalia
 
 - [OSINT Guru / Somalia](https://osintguru.azurewebsites.net/country?id=so)
 - [OSINT Tools for African Countries / Somalia](https://cyberint.uk/osint_tools/africa/#somalia)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## South Africa
 
@@ -1645,6 +2075,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - South Africa](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## South Korea
 
@@ -1655,7 +2088,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Korean OSINT Tips](https://osintstan.medium.com/top-five-korean-osint-tips-b578e2dec010)
 - [Worldwide OSINT tools map - South Korea](https://cybdetective.com/osintmap/)
 - [HBG Asia-Pacific resources](https://start.me/p/3KMwaw/hbg-asia-pacific-resources)
-  
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Spain
 
 - [OSINT Guru / Spain](https://osintguru.azurewebsites.net/country?id=es)
@@ -1665,6 +2100,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Spain](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Sri Lanka
 
@@ -1672,6 +2110,10 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Sri Lanka"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Asian Countries / Sri Lanka](https://cyberint.uk/osint_tools/asia/#sri-lanka)
 - [Worldwide OSINT tools map - Sri Lanka](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Sudan
 
 - [OSINT Guru / Sudan](https://osintguru.azurewebsites.net/country?id=sd)
@@ -1679,13 +2121,17 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for African Countries / Sudan](https://cyberint.uk/osint_tools/africa/#sudan)
 - [OSINT of Sudan](https://unishka.substack.com/p/osint-of-sudan)
 - [Worldwide OSINT tools map - Sudan](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Suriname
 
 - [OSINT Guru / Suriname](https://osintguru.azurewebsites.net/country?id=sr)
 - [World / Search in Bookmarks "Suriname"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for South American Countries / Suriname](https://cyberint.uk/osint_tools/south_america/#suriname)
 - [Worldwide OSINT tools map - Suriname](https://cybdetective.com/osintmap/)
-  
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Sweden
 
 - [OSINT Guru / Sweden](https://osintguru.azurewebsites.net/country?id=se)
@@ -1695,6 +2141,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Sweden](https://cybdetective.com/osintmap/)
 - [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Switzerland
 
@@ -1706,6 +2155,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Worldwide OSINT tools map - Switzerland](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Syria
 
@@ -1715,6 +2167,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools-Syria | GitHub](https://github.com/paulpogoda/OSINT-Tools-Syria)
 - [OSINT of Syria](https://unishka.substack.com/p/osint-of-syria)
 - [Worldwide OSINT tools map - Syria](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Tajikistan
 
 - [OSINT Guru / Tajikistan](https://osintguru.azurewebsites.net/country?id=tj)
@@ -1722,6 +2177,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Asian Countries / Tajikistan](https://cyberint.uk/osint_tools/asia/#tajikistan)
 - [OSINT Tools Tajikistan](https://github.com/paulpogoda/OSINT-Tools-Tajikistan)
 - [Worldwide OSINT tools map - Tajikistan](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Tanzania
 
 - [OSINT Guru / Tanzania](https://osintguru.azurewebsites.net/country?id=tz)
@@ -1729,6 +2187,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for African Countries / Tanzania](https://cyberint.uk/osint_tools/africa/#tanzania)
 - [OSINT of Tanzania](https://unishka.substack.com/p/osint-of-tanzania)
 - [Worldwide OSINT tools map - Tanzania](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Taiwan
 
 - [OSINT Guru / Taiwan](https://osintguru.azurewebsites.net/country?id=tw)
@@ -1737,6 +2198,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools-Taiwan | Github](https://github.com/paulpogoda/OSINT-Tools-Taiwan)
 - [Worldwide OSINT tools map - Taiwan](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 
 ## Thailand
 
@@ -1748,6 +2210,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Worldwide OSINT tools map - Thailand](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [HBG Asia-Pacific resources](https://start.me/p/3KMwaw/hbg-asia-pacific-resources)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Togo
 
@@ -1755,6 +2220,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Togo"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Togo](https://cyberint.uk/osint_tools/africa/#togo)
 - [Worldwide OSINT tools map - Togo](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Tokelau
 
 - [OSINT Tools for Oceania Countries / Tokelau (NZ)](https://cyberint.uk/osint_tools/oceania/#tokelau-nz)
@@ -1764,6 +2232,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Guru / Tonga](https://osintguru.azurewebsites.net/country?id=to)
 - [World / Search in Bookmarks "Tonga"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Oceania Countries / Tonga](https://cyberint.uk/osint_tools/oceania/#tonga)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Trinidad and Tobago
 
@@ -1771,12 +2241,17 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Trinidad & Tobago"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for North American Countries / Trinidad and Tobago](https://cyberint.uk/osint_tools/north_america/#trinidad-and-tobago)
 - [Worldwide OSINT tools map - Trinidad and Tobago](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Tunisia
 
 - [OSINT Guru / Tunisia](https://osintguru.azurewebsites.net/country?id=tn)
 - [World / Search in Bookmarks "Tunisia"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Tunisia](https://cyberint.uk/osint_tools/africa/#tunisia)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Turkey
 
@@ -1786,16 +2261,21 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Asian Countries / Turkey](https://cyberint.uk/osint_tools/asia/#turkey)
 - [Worldwide OSINT tools map - Turkey](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Turkmenistan
 
 - [OSINT Guru / Turkmenistan](https://osintguru.azurewebsites.net/country?id=tm)
 - [World / Search in Bookmarks "Turkmenistan"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Asian Countries / Turkmenistan](https://cyberint.uk/osint_tools/asia/#turkmenistan)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Tuvalu
 
 - [OSINT Tools for Oceania Countries / Tuvalu](https://cyberint.uk/osint_tools/oceania/#tuvalu)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Turks and Caicos Islands
 
@@ -1810,6 +2290,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Uganda"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Uganda](https://cyberint.uk/osint_tools/africa/#uganda)
 - [Worldwide OSINT tools map - Uganda](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Ukraine
 
 - [OSINT Guru / Ukraine](https://osintguru.azurewebsites.net/country?id=ua)
@@ -1817,6 +2300,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for European Countries / Ukraine](https://cyberint.uk/osint_tools/europe/#ukraine)
 - [Worldwide OSINT tools map - Ukraine](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## United Arab Emirates
 
@@ -1827,6 +2312,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT of UAE](https://unishka.substack.com/p/osint-of-uae)
 - [Worldwide OSINT tools map - United Arab Emirates](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## United Kingdom
 
@@ -1840,12 +2327,17 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Worldwide OSINT tools map - United Kingdom](https://cybdetective.com/osintmap/)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Uruguay
 
 - [OSINT Guru / Uruguay](https://osintguru.azurewebsites.net/country?id=uy)
 - [OSINT Tools for South American Countries / Uruguay](https://cyberint.uk/osint_tools/south_america/#uruguay)
 - [Worldwide OSINT tools map - Uruguay](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## USA
 
@@ -1857,12 +2349,16 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT-Tools_USA](https://github.com/paulpogoda/OSINT-Tools_USA)
 - [intellitoolz](https://github.com/asharbinkhalil/intellitoolz?tab=readme-ov-file#country-specific-registers)
 - [Worldwide OSINT tools map - USA](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## US Virgin Islands
 
 - [OSINT Guru / United States Virgin Islands](https://osintguru.azurewebsites.net/country?id=vi)
 - [World / Search in Bookmarks "USVI"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for North American Countries / US Virgin Islands (US)](https://cyberint.uk/osint_tools/north_america/#us-virgin-islands-us)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 
 ## Uzbekistan
 
@@ -1872,15 +2368,24 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools Uzbekistan](https://github.com/paulpogoda/OSINT-Tools-Uzbekistan)
 - [OSINT of Uzbekistan](https://unishka.substack.com/p/osint-of-uzbekistan)
 - [Worldwide OSINT tools map - Uzbekistan](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Vanuatu
 
 - [OSINT Guru / Vanuatu](https://osintguru.azurewebsites.net/country?id=vu)
 - [OSINT Tools for Oceania Countries / Vanuatu](https://cyberint.uk/osint_tools/oceania/#vanuatu)
+
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Vatican City
 
 - [OSINT Tools for European Countries / Vatican City](https://cyberint.uk/osint_tools/europe/#vatican-city)
 - [Worldwide OSINT tools map - Vatican City](https://cybdetective.com/osintmap/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Venezuela
 
 - [OSINT Guru / Venezuela](https://osintguru.azurewebsites.net/country?id=ve)
@@ -1889,6 +2394,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT of Venezuela](https://unishka.substack.com/p/osint-of-venezuela)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Venezuela](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Vietnam
 
 - [OSINT Guru / Vietnam](https://osintguru.azurewebsites.net/country?id=vn)
@@ -1896,6 +2404,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Asian Countries / Vietnam](https://cyberint.uk/osint_tools/asia/#vietnam)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Vietnam](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Wallis and Futuna
 
 - [OSINT Guru / Wallis and Futuna](https://osintguru.azurewebsites.net/country?id=wf)
@@ -1912,18 +2423,27 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Yemen"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Middle Eastern Countries / Yemen](https://cyberint.uk/osint_tools/middle_east/#yemen)
 - [Worldwide OSINT tools map - Yemen](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Zambia
 
 - [OSINT Guru / Zambia](https://osintguru.azurewebsites.net/country?id=zm)
 - [World / Search in Bookmarks "Zambia"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Zambia](https://cyberint.uk/osint_tools/africa/#zambia)
 - [Worldwide OSINT tools map - Zambia](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Zimbabwe
 
 - [OSINT Guru / Zimbabwe](https://osintguru.azurewebsites.net/country?id=zw)
 - [World / Search in Bookmarks "Zimbabwe"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for African Countries / Zimbabwe](https://cyberint.uk/osint_tools/africa/#zimbabwe)
 - [Worldwide OSINT tools map - Zimbabwe](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Anguilla
 
 - [OSINT Guru / Anguilla](https://osintguru.azurewebsites.net/country?id=ai)
@@ -1945,25 +2465,36 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Guru / Guernsey](https://osintguru.azurewebsites.net/country?id=gg)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Guernsey](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 ## Isle of Man
 
 - [OSINT Guru / Isle of Man](https://osintguru.azurewebsites.net/country?id=im)
 - [Worldwide OSINT tools map - Isle of Man](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 ## Jersey
 
 - [OSINT Guru / Jersey](https://osintguru.azurewebsites.net/country?id=je)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Jersey](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 ## Kosovo
 
 - [OSINT Guru / Kosovo](https://osintguru.azurewebsites.net/country?id=xk)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Kosovo](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
 ## Liechtenstein
 
 - [OSINT Guru / Liechtenstein](https://osintguru.azurewebsites.net/country?id=li)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Liechtenstein](https://cybdetective.com/osintmap/)
+- [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Mayotte
 
 - [OSINT Guru / Mayotte](https://osintguru.azurewebsites.net/country?id=yt)
@@ -1977,6 +2508,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Guru / North Macedonia](https://osintguru.azurewebsites.net/country?id=mk)
 
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Réunion
 
 - [OSINT Guru / Réunion](https://osintguru.azurewebsites.net/country?id=re)
@@ -1989,6 +2523,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 
 - [OSINT Guru / South Sudan](https://osintguru.azurewebsites.net/country?id=ss)
 - [Worldwide OSINT tools map - South Sudan](https://cybdetective.com/osintmap/)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
+
 ## Svalbard and Jan Mayen
 
 - [OSINT Guru / Svalbard and Jan Mayen](https://osintguru.azurewebsites.net/country?id=sj)
@@ -1996,6 +2533,8 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 ## Timor-Leste
 
 - [OSINT Guru / Timor-Leste](https://osintguru.azurewebsites.net/country?id=tl)
+- [Catalogue of Research Databases](https://id.occrp.org/databases/)
+- [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## Resources containing multi-country links
 
@@ -2005,6 +2544,9 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [HBG UK/Europe](https://start.me/p/VRMpYm/hbg-ukeurope-research-resources) - UK/Europe research resources
 - [HBG North America](https://start.me/p/ZQdorV/hbg-north-america-prospect-research-links) - North America research resources
 - [HBG Middle East](https://start.me/p/ZYaxaJ/hbg-middle-east-prospect-research-links) - Middle East research resources
+- [All You Can Read](https://allyoucanread.com)
+- [World Media Map](https://start.me/p/lLaoXv/07-world)
+- [International White and Yellow Pages](https://www.wayp.com)
 - [Geotips Map](https://geotips.net) - World map with tips for Geo-OSINT
   
 ### Included in country sections above
