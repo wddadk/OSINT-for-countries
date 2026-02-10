@@ -1803,6 +1803,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Worldwide OSINT tools map - Peru](https://cybdetective.com/osintmap/)
 - [Catalogue of Research Databases](https://id.occrp.org/databases/)
 - [SAWEST Public Sources 2024](https://sawest.eu/)
+- [Manuel Bot OSINT resources](https://manuelbot59.com/osint)
 
 ## Philippines
 
