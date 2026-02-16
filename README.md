@@ -403,6 +403,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for Asian Countries / Azerbaijan](https://cyberint.uk/osint_tools/asia/#azerbaijan)
 - [OSINT RESOURCES BY COUNTRY / AZERBAIJAN](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT-Tools-Azerbaijan](https://github.com/paulpogoda/OSINT-Tools-Azerbaijan/)
+- [OSINT of Azerbaijan](https://substack.com/@unishkaresearchservice/p-186485159)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Worldwide OSINT tools map - Azerbaijan](https://cybdetective.com/osintmap/)
 - [Catalogue of Research Databases](https://id.occrp.org/databases/)
