@@ -1887,7 +1887,6 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World / Search in Bookmarks "Russia"](https://start.me/p/lLaoXv/07-world)
 - [OSINT Tools for Asian Countries / Russia](https://cyberint.uk/osint_tools/asia/#russia)
 - [OSINT RESOURCES BY COUNTRY / RUSSIA](https://start.me/p/kvAQBk/osint-resources-by-country)
-- [OSINT: Darkweb & Russia](https://start.me/p/kx5qL5/osint-darkweb-russia)
 - [OSINT Russie IEC-IES](https://start.me/p/0PeKwy/osint-russie-iec-ies)
 - [OSINT-Tools-Russia | Github](https://github.com/paulpogoda/OSINT-Tools-Russia)
 - [OSINT of Russia](https://unishka.substack.com/p/osint-of-russia)
