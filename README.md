@@ -777,7 +777,6 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT Tools for African Countries / Côte d'Ivoire](https://cyberint.uk/osint_tools/africa/#côte-divoire)
 - [OSINT International](https://start.me/p/7kDabv/osint-international)
 - [CNTY World](https://start.me/p/kxNv55/cnty-world)
-- [CNTY World](https://start.me/p/kxNv55/cnty-world)
 - [Catalogue of Research Databases](https://id.occrp.org/databases/)
 - [SAWEST Public Sources 2024](https://sawest.eu/)
 
