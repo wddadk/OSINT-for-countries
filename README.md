@@ -2566,6 +2566,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [World Media Map](https://start.me/p/lLaoXv/07-world)
 - [International White and Yellow Pages](https://www.wayp.com)
 - [Geotips Map](https://geotips.net) - World map with tips for Geo-OSINT
+- [Company Records](https://records.knowyourcustomer.com/coverage) - `149 jurisdictions` - free anonymous company search; reports and official filings retrieved live from each official register (paid)
   
 ### Included in country sections above
 - [OSINT Map](https://cybdetective.com/osintmap/) - Worldwide map of OSINT tools
