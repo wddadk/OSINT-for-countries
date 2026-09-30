@@ -712,6 +712,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [SAWEST Public Sources 2024](https://sawest.eu/)
 
 ## China
+- [China Unified Social Credit Code checker](https://currawongweb.com/verify/china-usci-checker/) — Free in-browser format and checksum check; a passing code does not establish registration, current status or ownership.
 
 - [OSINT Guru / China](https://osintguru.azurewebsites.net/country?id=cn)
 - [World / Search in Bookmarks "China"](https://start.me/p/lLaoXv/07-world)
