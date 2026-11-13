@@ -981,6 +981,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [OSINT RESOURCES BY COUNTRY / FINLAND](https://start.me/p/kvAQBk/osint-resources-by-country)
 - [OSINT Tools for European Countries / Finland](https://cyberint.uk/osint_tools/europe/#finland)
 - [Worldwide OSINT tools map - Finland](https://cybdetective.com/osintmap/)
+- [PRH Company Events (Finnish company registry changes, paid API)](https://apify.com/itulo/prh-company-events)
 - [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
 - [Catalogue of Research Databases](https://id.occrp.org/databases/)
 - [SAWEST Public Sources 2024](https://sawest.eu/)
