@@ -2345,6 +2345,7 @@ Check the - [Resources containing multi-country links](#resources-containing-mul
 - [Company Registries by country](https://www.disputesregister.org/advice/company-registries-by-country)
 - [Catalogue of Research Databases](https://id.occrp.org/databases/)
 - [SAWEST Public Sources 2024](https://sawest.eu/)
+- [H1DR4 Incident Map / Police.uk layer](https://h1dr4.dev/map) - Public viewer for reported incidents, with approximate locations and coverage that varies by police force.
 
 ## Uruguay
 
